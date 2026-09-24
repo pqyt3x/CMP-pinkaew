@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 first = int(input("Enter the first number:\n"))
 second = int(input("Enter the second number:\n"))
 result = first*second
