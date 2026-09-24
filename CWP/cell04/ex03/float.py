@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+
 num = float(input("Give me a number: "))
 if num == int(num):
     print("This number is an integer.")
